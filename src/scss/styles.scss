@@ -1,0 +1,16 @@
+@import 'variables';
+@import '~bootstrap/scss/bootstrap';
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #007bff;
+}
+
+.navbar-brand, .nav-link {
+  color: #fff !important;
+}
